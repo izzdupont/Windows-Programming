@@ -1,0 +1,11 @@
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\bin\Debug\Yahtzee 2.exe.config
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\bin\Debug\Yahtzee 2.exe
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\bin\Debug\Yahtzee 2.pdb
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\obj\Debug\Yahtzee 2.csprojAssemblyReference.cache
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\obj\Debug\Yahtzee_2.Form1.resources
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\obj\Debug\Yahtzee_2.Properties.Resources.resources
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\obj\Debug\Yahtzee 2.csproj.GenerateResource.cache
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\obj\Debug\Yahtzee 2.csproj.CoreCompileInputs.cache
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\obj\Debug\Yahtzee 2.pdb
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\obj\Debug\Yahtzee_2.Dices.resources
+C:\Users\luizz\source\repos\Yahtzee test\Yahtzee 2\obj\Debug\Yahtzee 2.csproj.CopyComplete

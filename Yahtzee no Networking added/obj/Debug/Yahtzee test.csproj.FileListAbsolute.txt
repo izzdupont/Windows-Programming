@@ -1,0 +1,11 @@
+C:\Users\luizz\source\repos\Yahtzee test\bin\Debug\Yahtzee test.exe.config
+C:\Users\luizz\source\repos\Yahtzee test\bin\Debug\Yahtzee test.exe
+C:\Users\luizz\source\repos\Yahtzee test\bin\Debug\Yahtzee test.pdb
+C:\Users\luizz\source\repos\Yahtzee test\obj\Debug\Yahtzee test.csprojAssemblyReference.cache
+C:\Users\luizz\source\repos\Yahtzee test\obj\Debug\Yahtzee_test.Form1.resources
+C:\Users\luizz\source\repos\Yahtzee test\obj\Debug\Yahtzee_test.Properties.Resources.resources
+C:\Users\luizz\source\repos\Yahtzee test\obj\Debug\Yahtzee test.csproj.GenerateResource.cache
+C:\Users\luizz\source\repos\Yahtzee test\obj\Debug\Yahtzee test.csproj.CoreCompileInputs.cache
+C:\Users\luizz\source\repos\Yahtzee test\obj\Debug\Yahtzee test.exe
+C:\Users\luizz\source\repos\Yahtzee test\obj\Debug\Yahtzee test.pdb
+C:\Users\luizz\source\repos\Yahtzee test\obj\Debug\Yahtzee_test.Dices.resources
