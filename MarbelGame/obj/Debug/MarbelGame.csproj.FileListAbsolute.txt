@@ -1,0 +1,13 @@
+C:\Users\luizz\source\repos\MarbelGame\bin\Debug\MarbelGame.exe.config
+C:\Users\luizz\source\repos\MarbelGame\bin\Debug\MarbelGame.exe
+C:\Users\luizz\source\repos\MarbelGame\bin\Debug\MarbelGame.pdb
+C:\Users\luizz\source\repos\MarbelGame\obj\Debug\MarbelGame.csprojAssemblyReference.cache
+C:\Users\luizz\source\repos\MarbelGame\obj\Debug\MarbelGame.Properties.Resources.resources
+C:\Users\luizz\source\repos\MarbelGame\obj\Debug\MarbelGame.csproj.GenerateResource.cache
+C:\Users\luizz\source\repos\MarbelGame\obj\Debug\MarbelGame.csproj.CoreCompileInputs.cache
+C:\Users\luizz\source\repos\MarbelGame\obj\Debug\MarbelGame.exe
+C:\Users\luizz\source\repos\MarbelGame\obj\Debug\MarbelGame.pdb
+C:\Users\luizz\source\repos\MarbelGame\bin\Debug\MarbelGame_Dll.dll
+C:\Users\luizz\source\repos\MarbelGame\bin\Debug\MarbelGame_Dll.pdb
+C:\Users\luizz\source\repos\MarbelGame\obj\Debug\MarbelGame.Form1.resources
+C:\Users\luizz\source\repos\MarbelGame\obj\Debug\MarbelGame.csproj.CopyComplete
